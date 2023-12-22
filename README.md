@@ -5,9 +5,10 @@
 **Processo:** O algoritmo recebe dois arquivos CSV com os estados e cidades brasileiros, respectivamente. E cria um arquivo TXT com as querys Cypher prontas para serem usadas no Neo4j e serem criados os nós e relações do País, Macroregiões, Estados e Cidades brasileiros.
 
 #### Os nós e relações são criados da seguinte forma:
-> (Cidade) -[:PERTENCE_A]-> (Estado) -[:PERTENCE_A]-> (Macroregião) -[:PERTENCE_A]-> (País)
-> 
-![Imagem exemplo de nós e relações](exemplo_nos.png)
+```(Cidade) -[:PERTENCE_A]-> (Estado) -[:PERTENCE_A]-> (Macroregião) -[:PERTENCE_A]-> (País)```
+<div style="display: flex; justify-itens: center;">
+  <img src="https://github.com/antth-Luca/Gerador_Cypher_Estados_e_Cidades/blob/main/exemplo_nos.png">
+</div>
 
 
 #### Estarei deixando os seguintes arquivos:
@@ -15,4 +16,4 @@
 * [query_cypher.txt](https://github.com/antth-Luca/Gerador_Cypher_Estados_e_Cidades/blob/main/query_cypher.txt) - a query que eu gerei para o meu projeto;
 * [ufs.csv](https://github.com/antth-Luca/Gerador_Cypher_Estados_e_Cidades/blob/main/ufs.csv) e [municipios.csv](https://github.com/antth-Luca/Gerador_Cypher_Estados_e_Cidades/blob/main/municipios.csv) - arquivos CSV que eu usei, [disponível no repositório "municipios-br"](https://github.com/mapaslivres/municipios-br)
 
-### ATENÇÂO! Dados de 2021 
+### ATENÇÃO! Dados de 2021.
