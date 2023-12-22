@@ -10,10 +10,11 @@
   <img src="https://github.com/antth-Luca/Gerador_Cypher_Estados_e_Cidades/blob/main/exemplo_nos.png">
 </div>
 
+### ATENÇÃO! Caso necessário, modifique o .py para adequar as colunas com os seus CSVs.
 
 #### Estarei deixando os seguintes arquivos:
 * [gerador_cypher.py](https://github.com/antth-Luca/Gerador_Cypher_Estados_e_Cidades/blob/main/gerador_cypher.py) - o arquivo Python que se deve executar;
 * [query_cypher.txt](https://github.com/antth-Luca/Gerador_Cypher_Estados_e_Cidades/blob/main/query_cypher.txt) - a query que eu gerei para o meu projeto;
 * [ufs.csv](https://github.com/antth-Luca/Gerador_Cypher_Estados_e_Cidades/blob/main/ufs.csv) e [municipios.csv](https://github.com/antth-Luca/Gerador_Cypher_Estados_e_Cidades/blob/main/municipios.csv) - arquivos CSV que eu usei, [disponível no repositório "municipios-br"](https://github.com/mapaslivres/municipios-br)
 
-### ATENÇÃO! Dados de 2021.
+### ATENÇÃO! Os dados desses CSVs são de 2021.
