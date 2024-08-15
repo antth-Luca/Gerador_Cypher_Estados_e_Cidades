@@ -20,11 +20,17 @@
   <img src="https://github.com/antth-Luca/Gerador_Cypher_Estados_e_Cidades/blob/main/table_regiao.png">
 </div>
 
-### ATENÇÃO! Caso necessário, modifique o .py para adequar as colunas com os seus CSVs.
+---
 
+### Avisos:
+* Sinta-se à vontade para modificar o .py e adequar ao seu CSV;
+* Os dados dos CSVs usados são de 2021.
+
+### Autor:
+* Luca Anthony - [antthLuca](https://github.com/antth-Luca)
+
+### Anexos:
 #### Estarei anexando os arquivos CSV usados:
-* [ufs.csv](https://github.com/antth-Luca/Gerador_Cypher_Estados_e_Cidades/blob/main/ufs.csv);
-* [municipios.csv](https://github.com/antth-Luca/Gerador_Cypher_Estados_e_Cidades/blob/main/municipios.csv);
+* [ufs.csv](https://github.com/mapaslivres/municipios-br/blob/main/tabelas/ufs.csv);
+* [municipios.csv](https://github.com/mapaslivres/municipios-br/blob/main/tabelas/municipios.csv);
 * Disponível no [repositório "municipios-br"](https://github.com/mapaslivres/municipios-br).
-
-### ATENÇÃO! Os dados desses CSVs são de 2021.
